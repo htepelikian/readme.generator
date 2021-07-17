@@ -14,17 +14,12 @@ This project is aimed at developers who would like to generate a quick, yet prof
 * PACKAGE-LOCK.JSON
 * NODE.JS
 
-## Deployed Link
-
-* 
-
 
 ## Authors
 
 * **HRIPSIME (CRISTINA) TEPELIKIAN** 
 
-- 
-- 
+- https://github.com/htepelikian/readme.generator.git
 - [Link to Github](https://github.com/htepelikian)
 
 ## Usage 
